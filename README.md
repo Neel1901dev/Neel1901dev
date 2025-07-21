@@ -70,41 +70,6 @@ Currently Working On:
 Check back for updates on my latest work!
 
 </td> </tr> </table> </div>
-💼 Professional Experience
-🔒 Security Analyst | Kody Technolab
-📅 June 2022 - July 2023 | 📍 India
-Specialized in implementing comprehensive data protection mechanisms and access control systems to secure sensitive client data. Successfully reduced operational costs through database query optimization and system efficiency improvements, resulting in significant infrastructure expense reduction and enhanced overall performance.
-Key Achievements:
-
-Utilized AWS services (S3, Lambda, AWS Glue) for seamless data migration and ETL processing
-Enhanced scalability and performance of DineBot and DeliveryBot projects
-Managed tasks in JIRA within Agile framework, improving development efficiency and delivery
-Participated in security policy development and implementation to comply with industry standards
-Conducted security assessments and vulnerability scans using Splunk, identifying potential risks and recommending mitigation strategies
-
-
-🎓 IT Support Specialist | York University
-📅 October 2023 - May 2025 | 📍 Toronto, ON
-Currently providing excellent customer service and technical support while collaborating with multiple teams across the university organization. Managing confidential student information and technical documentation with high attention to security and privacy protocols.
-Key Responsibilities:
-
-Coordinate with multiple departments to resolve complex technical and administrative challenges
-Manage confidential student information systems with strict adherence to privacy protocols
-Prepare comprehensive weekly status reports for management review
-Demonstrate expertise in student information systems and database management
-Provide technical support and troubleshooting for various university systems
-
-
-📊 Data Engineer Intern | Megh Technologies
-📅 January 2022 - May 2022 | 📍 India
-Contributed to data engineering projects involving collection, cleaning, and analysis of large datasets. Applied statistical and machine learning techniques to extract valuable insights and effectively communicated findings to team members and stakeholders.
-Technical Contributions:
-Assisted in collection and preprocessing of large-scale datasets for analysis
-Applied statistical and machine learning techniques for data analysis and pattern recognition
-Worked extensively with Python for data processing and analysis tasks
-Utilized SQL and Microsoft Excel for data visualization and reporting
-Participated in daily Scrum meetings and contributed to system design discussions
-Wrote comprehensive test cases to ensure data quality and system reliability
 🎓 Education & Learning
 <div align="center">
 🏛️ York University, Canada
