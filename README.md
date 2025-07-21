@@ -1,7 +1,6 @@
 Hi there! 👋 I'm Neel Suthar
 <div align="center">
-🚀 Cybersecurity Specialist | Cloud Engineer | Data Engineer | Full Stack Developer
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Neel1901dev&theme=radical&hide_border=true" alt="Neel's GitHub Streak" /> </div>
+🚀 Cybersecurity Specialist | Cloud Engineer | Data Engineer | Full Stack Developer </div>
 🎯 About Me
 🎓 Graduate Student in Cybersecurity & CloudOPS at York University (GPA: 4.17/4.30)
 🔐 Security Analyst with hands-on experience in data protection and vulnerability assessments
