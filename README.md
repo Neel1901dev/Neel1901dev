@@ -20,14 +20,19 @@ Currently seeking opportunities in Cybersecurity, Cloud Engineering, and Data En
 <div align="center">
 Programming Languages
 <img src="https://skillicons.dev/icons?i=python,java,javascript,c" />
+
 Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform" />
+
 Frameworks & Libraries
 <img src="https://skillicons.dev/icons?i=spring,react,nodejs,flask" />
+
 AI/ML & Data Science
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" /> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />
+
 Databases & Tools
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,git" />
+
 Security & Analytics
 <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" /> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" /> </div>
 🔥 Featured Projects
@@ -66,8 +71,6 @@ Currently Working On:
 Check back for updates on my latest work!
 
 </td> </tr> </table> </div>
-📊 GitHub Statistics
-<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Neel1901dev&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" /> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neel1901dev&layout=compact&theme=radical&hide_border=true&langs_count=8" /> </div> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neel1901dev&bg_color=0d1117&color=ffffff&line=f85d7f&point=ffffff&area=true&hide_border=true" /> </div>
 💼 Professional Experience
 <div align="center">
 Role	Company	Duration	Key Achievements
@@ -86,15 +89,8 @@ Bachelor of Engineering, Information Technology
 📅 Aug 2018 – May 2022 | 🎯 CGPA: 9.30/10
 
 </div>
-🌐 Connect With Me
-<div align="center">
-Show Image
-Show Image
-Show Image
-
 📍 Location: Toronto, ON, Canada
 📱 Phone: +1(416)-856-3145
-
 </div>
 <div align="center">
 💡 "Securing the digital future, one line of code at a time"
