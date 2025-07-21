@@ -5,9 +5,7 @@ Hi there! 👋 I'm Neel Suthar
 🎓 Graduate Student in Cybersecurity & CloudOPS at York University (GPA: 4.17/4.30)
 🔐 Security Analyst with hands-on experience in data protection and vulnerability assessments
 ☁️ AWS Certified Cloud Practitioner passionate about cloud architecture and DevOps
-🤖 AI/ML Enthusiast working with NLP, LLMs, and deep learning technologies
-
-Currently seeking opportunities in Cybersecurity, Cloud Engineering, and Data Engineering roles.
+🤖 AI/ML Enthusiast working with NLP, LLMs, and deep learning technologies Currently seeking opportunities in Cybersecurity, Cloud Engineering, and Data Engineering roles.
 
 🏆 Certifications & Achievements
 <table align="center"> <tr> <td align="center"> <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" height="100"> <br><strong>AWS Certified</strong><br>Cloud Practitioner </td> <td align="center"> <img src="https://images.credly.com/size/110x110/images/74790a75-8451-400a-8536-92d792b5184a/CompTIA_Security_2Bce.png" width="100" height="100"> <br><strong>CompTIA</strong><br>Security+ (SY0-701) </td> <td align="center"> <img src="https://images.credly.com/size/110x110/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" width="100" height="100"> <br><strong>ISC2</strong><br>Certified in CC </td> </tr> </table>
