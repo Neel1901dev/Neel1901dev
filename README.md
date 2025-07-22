@@ -91,6 +91,4 @@ Bachelor of Engineering, Information Technology
 📊 Data Engineering & Analytics
 💻 Full Stack Development
 <img src="https://komarev.com/ghpvc/?username=Neel1901dev&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
-⭐ Don't forget to star my repositories if you find them interesting!
-
 </div>
