@@ -8,7 +8,7 @@ Hi there! 👋 I'm Neel Suthar
 🤖 AI/ML Enthusiast working with NLP, LLMs, and deep learning technologies Currently seeking opportunities in Cybersecurity, Cloud Engineering, and Data Engineering roles.
 
 🏆 Certifications & Achievements
-<table align="center"> <tr> <td align="center"> <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" height="100"> <br><strong>AWS Certified</strong><br>Cloud Practitioner </td> <td align="center"> <img src="C:/Users/NEEL SUTHAR/Downloads/comptia-security-ce-certification.png" width="100" height="100"> <br><strong>CompTIA</strong><br>Security+ (SY0-701) </td> <td align="center"> <img src="https://images.credly.com/size/110x110/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" width="100" height="100"> <br><strong>ISC2</strong><br>Certified in CC </td> </tr> </table>
+<table align="center"> <tr> <td align="center"> <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" height="100"> <br><strong>AWS Certified</strong><br>Cloud Practitioner </td> <td align="center"> <img src="https://www.credly.com/badges/5193de00-8e3f-4dc9-ab88-c2fd3d561ca0/public_url" width="100" height="100"> <br><strong>CompTIA</strong><br>Security+ (SY0-701) </td> <td align="center"> <img src="https://images.credly.com/size/110x110/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" width="100" height="100"> <br><strong>ISC2</strong><br>Certified in CC </td> </tr> </table>
 🌟 Leadership & Recognition
 🎯 President - Google Developer Student Club, York University
 🏅 Event Organizer - Hackathons (Hack the Skies, ElleHacks), Cloud Study Jams, LeetCode Sessions
